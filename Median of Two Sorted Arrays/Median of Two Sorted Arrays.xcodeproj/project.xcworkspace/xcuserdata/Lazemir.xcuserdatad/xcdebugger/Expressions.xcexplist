@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Solution::findMedianSortedArrays(std::__1::__wrap_iter&lt;int*&gt;, std::__1::__wrap_iter&lt;int*&gt;, std::__1::__wrap_iter&lt;int*&gt;, std::__1::__wrap_iter&lt;int*&gt;):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(end2 - 1)">
+            </PersistentString>
+            <PersistentString
+               value = "beg1[0]">
+            </PersistentString>
+            <PersistentString
+               value = "*beg2">
+            </PersistentString>
+            <PersistentString
+               value = "*(end1 - 1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
